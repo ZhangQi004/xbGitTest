@@ -21,4 +21,7 @@ public class iamxb {
     public static void main(String[] args) {
         System.out.println("我是张琦");
     }
+    public void version(){
+        //感谢观看
+    }
 }
