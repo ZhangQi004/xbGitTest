@@ -23,5 +23,6 @@ public class iamxb {
     }
     public void version(){
         //感谢观看
+        System.out.println("感谢观看");
     }
 }
